@@ -1,4 +1,7 @@
 .env
 .encryptedKey.json
+temp_auto_push.bat
 node_modules
 dist
+.gitignore
+temp_interactive_push.bat
